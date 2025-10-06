@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/vendor-parameter-mapper-845-854/vendor_parameter_mapping_backend"
+}
